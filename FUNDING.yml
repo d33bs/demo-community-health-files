@@ -1,6 +1,1 @@
-custom:
-  [
-    "a string",
-    "https://shinstitute.org/",
-    "https://medschool.cuanschutz.edu/dbmi",
-  ]
+custom: ["https://shinstitute.org/", "https://medschool.cuanschutz.edu/dbmi"]
